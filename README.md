@@ -67,4 +67,17 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" /> 
 </a></p>
 
-<a href="https://www.github.com/turboboyd" target="_blank" rel="noreferrer"> <picture> <source srcset="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" /> </picture> </a> 
+----
+<a href="mailto:youremail@gmail.com" target="_blank" rel="noreferrer"> 
+<picture> 
+<source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /> 
+<source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" /> 
+</picture> 
+</a><a href="mailto:youremail@gmail.com" target="_blank" rel="noreferrer"> 
+<picture> 
+<source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /> 
+<source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" /> 
+</picture> 
+</a>
