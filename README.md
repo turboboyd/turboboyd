@@ -5,7 +5,7 @@
 <!-- <h2 align="center">Fullstack developer</h2>  -->
 
 
-<h3>I’d describe myself as goal-oriented and  communicative person with proven skills of leadeship. Collaboration and hard work are what drive me and allow me to see the best results. That's why I can easily adapt to new things and always ready to take on a challenge.</h3>
+<h4>I’d describe myself as goal-oriented and  communicative person with proven skills of leadeship. Collaboration and hard work are what drive me and allow me to see the best results. That's why I can easily adapt to new things and always ready to take on a challenge.</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=turboboy&label=Profile%20views&color=0e75b6&style=flat" alt="turboboy" /> </p>
 
 ### Skills
