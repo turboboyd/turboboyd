@@ -66,3 +66,5 @@
 <a href="mailto:youremail@gmail.com" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" /> 
 </a></p>
+
+<a href="https://www.github.com/turboboyd" target="_blank" rel="noreferrer"> <picture> <source srcset="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" /> </picture> </a> 
