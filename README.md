@@ -58,10 +58,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32" /> 
 </a>
 
-<a href="https://wa.me/yourphonenumber" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://wa.me/yourphonenumber" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="32" height="32" /> 
 </a>
 
 <a href="mailto:youremail@gmail.com" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" /> 
-</a>
+</a> -->
