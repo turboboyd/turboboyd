@@ -83,7 +83,7 @@
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 <picture> 
-<img src="https://iconape.com/wp-content/files/ez/353342/svg/tailwind-css-seeklogo.com.svg" width="32" height="32" /> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="32" height="32" /> 
 </picture> 
 </a>
 
