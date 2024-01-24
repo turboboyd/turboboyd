@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Denis Daniv</h1>
 
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77B13&random=false&width=300&lines=Fullstack+developer" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77B13&random=false&width=270&lines=Fullstack+developer" alt="Typing SVG" /></a></div>
 
 <!-- <h2 align="center">Fullstack developer</h2>  -->
 
