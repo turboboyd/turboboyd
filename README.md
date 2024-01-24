@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Denis Daniv/h1>
+<h1 align="center">Hi 👋, I'm Denis Daniv</h1>
 
 <h2 align="center">a Junior Fullstack developer</h2> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=novicovmykhailo&label=Profile%20views&color=0e75b6&style=flat" alt="novicovmykhailo" /> </p>
@@ -77,4 +77,34 @@
 </p>
 
 
+--------
+<a href="mailto:youremail@gmail.com" target="_blank" rel="noreferrer"> 
+<picture> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" /> 
+</picture> 
+</a>
+
+<a href="yourlink" target="_blank" rel="noreferrer"> 
+<picture> 
+<img src="https://formik.org/apple-touch-icon.png" width="32" height="32" /> 
+</picture> 
+</a>
+
+<a href="yourlink" target="_blank" rel="noreferrer"> 
+<picture> 
+<img src="https://icon-icons.com/downloadimage.php?id=168545&root=2746/PNG/512/&file=axios_logo_icon_168545.png" width="32" height="32" /> 
+</picture> 
+</a>
+
+<a href="yourlink" target="_blank" rel="noreferrer"> 
+<picture> 
+<img src="https://www.google.com/s2/favicons?domain=developer.mozilla.org" width="32" height="32" /> 
+</picture> 
+</a>
+
+<a href="yourlink" target="_blank" rel="noreferrer"> 
+<picture> 
+<img src="https://www.google.com/s2/favicons?domain=axios-http.com" width="32" height="32" /> 
+</picture> 
+</a>
 
