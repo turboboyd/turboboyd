@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Denis Daniv</h1>
 
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77B13&random=false&width=335&lines=Fullstack+developer" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77B13&random=false&width=300&lines=Fullstack+developer" alt="Typing SVG" /></a></div>
 
 <!-- <h2 align="center">Fullstack developer</h2>  -->
 
 
-<h2>I’d describe myself as goal-oriented and  communicative person with proven skills of leadeship. Collaboration and hard work are what drive me and allow me to see the best results. That's why I can easily adapt to new things and always ready to take on a challenge.</h2>
+<h3>I’d describe myself as goal-oriented and  communicative person with proven skills of leadeship. Collaboration and hard work are what drive me and allow me to see the best results. That's why I can easily adapt to new things and always ready to take on a challenge.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=turboboy&label=Profile%20views&color=0e75b6&style=flat" alt="turboboy" /> </p>
 
 ### Skills
