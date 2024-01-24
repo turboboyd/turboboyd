@@ -81,7 +81,7 @@
 
 <a href="https://formik.org/" target="_blank" rel="noreferrer"> 
 <picture> 
-<img src="https://iconscout.com/icons/axios?icon-pack=popular-logos&logo-type=original" width="32" height="32" /> 
+<img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" width="32" height="32" /> 
 </picture> 
 </a>
 
@@ -98,7 +98,7 @@
 </a>
 
 <a href="https://axios-http.com/docs/intro" target="_blank" rel="noreferrer"> 
-<picture> 
+
 <img src="https://iconscout.com/icons/axios?icon-pack=popular-logos&logo-type=original" width="32" height="32" /> 
-</picture> 
+
 </a>
