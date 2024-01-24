@@ -87,7 +87,7 @@
 
 <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> 
 <picture> 
-<img src="https://uxwing.com/rest-api-icon/" width="32" height="32" /> 
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" width="32" height="32" /> 
 </picture> 
 </a>
 
@@ -102,3 +102,28 @@
 <img src="https://iconscout.com/icons/axios?icon-pack=popular-logos&logo-type=original" width="32" height="32" /> 
 
 </a>
+
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+<picture> 
+<img src="https://iconape.com/wp-content/files/ez/353342/svg/tailwind-css-seeklogo.com.svg" width="32" height="32" /> 
+</picture> 
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<picture> 
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="32" height="32" /> 
+</picture> 
+</a>
+
+<a href="https://github.com/" target="_blank" rel="noreferrer"> 
+<picture> 
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" height="32" /> 
+</picture> 
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout" target="_blank" rel="noreferrer"> 
+<picture> 
+<img src="https://developer.mozilla.org/static/img/favicon144.png" width="32" height="32" /> 
+</picture> 
+</a>
+
