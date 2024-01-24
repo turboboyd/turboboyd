@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Denis Daniv</h1>
 
 <h2 align="center">a Junior Fullstack developer</h2> 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=novicovmykhailo&label=Profile%20views&color=0e75b6&style=flat" alt="novicovmykhailo" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=turboboy&label=Profile%20views&color=0e75b6&style=flat" alt="turboboy" /> </p>
 
 ### Skills
 
@@ -54,21 +54,16 @@
 
 <p align="left"> 
 <a href="https://www.github.com/turboboyd" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
+
 <a href="https://www.linkedin.com/in/denisdaniv" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 
-<a href="https://t.me/yourusername" target="_blank" rel="noreferrer"> 
+<a href="https://t.me/turbo_boyd" target="_blank" rel="noreferrer"> 
 <picture> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32" /> 
 </picture> 
 </a>
 
-<a href="https://wa.me/yourphonenumber" target="_blank" rel="noreferrer">
-<picture> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="32" height="32" /> 
-</picture>
-</a>
-
-<a href="mailto:youremail@gmail.com" target="_blank" rel="noreferrer"> 
+<a href="mailto:denisdaniv1@gmail.com" target="_blank" rel="noreferrer"> 
 <picture> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" /> 
 </picture> 
@@ -84,27 +79,26 @@
 </picture> 
 </a>
 
-<a href="yourlink" target="_blank" rel="noreferrer"> 
+<a href="https://formik.org/" target="_blank" rel="noreferrer"> 
 <picture> 
-<img src="https://formik.org/apple-touch-icon.png" width="32" height="32" /> 
+<img src="https://iconscout.com/icons/axios?icon-pack=popular-logos&logo-type=original" width="32" height="32" /> 
 </picture> 
 </a>
 
-<a href="yourlink" target="_blank" rel="noreferrer"> 
+<a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> 
 <picture> 
-<img src="https://icon-icons.com/downloadimage.php?id=168545&root=2746/PNG/512/&file=axios_logo_icon_168545.png" width="32" height="32" /> 
+<img src="https://uxwing.com/rest-api-icon/" width="32" height="32" /> 
 </picture> 
 </a>
 
-<a href="yourlink" target="_blank" rel="noreferrer"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch" target="_blank" rel="noreferrer"> 
 <picture> 
-<img src="https://www.google.com/s2/favicons?domain=developer.mozilla.org" width="32" height="32" /> 
+<img src="https://iconscout.com/icons/fetch-data?icon-pack=popular-logos&logo-type=original" width="32" height="32" /> 
 </picture> 
 </a>
 
-<a href="yourlink" target="_blank" rel="noreferrer"> 
+<a href="https://axios-http.com/docs/intro" target="_blank" rel="noreferrer"> 
 <picture> 
-<img src="https://www.google.com/s2/favicons?domain=axios-http.com" width="32" height="32" /> 
+<img src="https://iconscout.com/icons/axios?icon-pack=popular-logos&logo-type=original" width="32" height="32" /> 
 </picture> 
 </a>
-
