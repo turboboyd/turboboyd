@@ -34,6 +34,12 @@
 <picture> 
 <img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" width="32" height="32" /> 
 </picture> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+<picture> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" width="32" height="32" /> 
+</picture> 
+</a>
+
 </a>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 
@@ -57,7 +63,6 @@
 
 
 
----
 ##  <h3 align="left">📫 Connect with me:</h3>
 
 <p align="left"> 
@@ -76,16 +81,7 @@
 </p>
 
 
---------
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=turboboyd&repo=LearnLingo)](https://github.com/turboboyd/LearnLingo)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=turboboyd&repo=LearnLingo)](https://github.com/turboboyd/LearnLingo)
 
-
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-<picture> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="32" height="32" /> 
-</picture> 
-</a>
 
 
 
