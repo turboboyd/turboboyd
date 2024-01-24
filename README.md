@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Denis Daniv</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77B13&random=false&width=435&lines=Fullstack+developer" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77B13&random=false&width=435&lines=Fullstack+developer" alt="Typing SVG" /></a>
 
-<h2 align="center">Fullstack developer</h2> 
+<!-- <h2 align="center">Fullstack developer</h2>  -->
 
 
 <p>I’d describe myself as goal-oriented and  communicative person with proven skills of leadeship. Collaboration and hard work are what drive me and allow me to see the best results. That's why I can easily adapt to new things and always ready to take on a challenge.</p>
@@ -77,10 +77,9 @@
 
 
 --------
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=turboboyd&repo=LearnLingo)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=turboboyd&repo=LearnLingo)](https://github.com/turboboyd/LearnLingo)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=turboboyd&repo=LearnLingo)](https://github.com/turboboyd/LearnLingo)
 
 
-https://github.com/turboboyd/LearnLingo
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 <picture> 
