@@ -3,9 +3,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77B13&random=false&width=435&lines=Fullstack+developer" alt="Typing SVG" /></a>
 
 <h2 align="center">Fullstack developer</h2> 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=turboboy&label=Profile%20views&color=0e75b6&style=flat" alt="turboboy" /> </p>
+
 
 <p>I’d describe myself as goal-oriented and  communicative person with proven skills of leadeship. Collaboration and hard work are what drive me and allow me to see the best results. That's why I can easily adapt to new things and always ready to take on a challenge.</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=turboboy&label=Profile%20views&color=0e75b6&style=flat" alt="turboboy" /> </p>
 
 ### Skills
 
@@ -76,9 +77,10 @@
 
 
 --------
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=turboboyd&repo=LearnLingo)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+https://github.com/turboboyd/LearnLingo
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 <picture> 
